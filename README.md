@@ -27,4 +27,9 @@ A Xcode template using VIP Clean Architecture Pattern with SwiftUI
 - [ ] An installer: must be created an installer. Today, all the installation process is manual.
 
 
+## Authors
+
+- [@arthurgivigir](https://github.com/arthurgivigir)
+
+
 #### Template [icon](https://icons8.com/icon/beYUNPWBUGT1/swiftui) by [Icons8](https://icons8.com)
